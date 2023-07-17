@@ -1,0 +1,19 @@
+.header-container {
+    backdrop-filter: blur(10px);
+    background: transparent;
+}
+
+.header-container .header {
+    height: 110px;
+    transition: all 0.3s;
+}
+
+.header-navigation {
+    color: rgba(25, 24, 37, 0.50);
+    transition: color 100ms;
+    cursor: pointer;
+}
+
+.header-navigation:hover {
+    color: #222831;
+}
