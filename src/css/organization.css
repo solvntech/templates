@@ -1,0 +1,6 @@
+.organization:before {
+    content: url("../src/assets/images/ten-arrow.svg");
+    position: absolute;
+    left: -110px;
+    top: -40px;
+}
