@@ -13,6 +13,7 @@ module.exports = {
                 primary: "#5D50C6",
                 pink: "#F85E9F",
                 "btn-content": "#222831",
+                des: "rgba(25, 24, 37, 0.50)"
             },
             keyframes: {
                 ripple: {

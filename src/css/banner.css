@@ -1,18 +1,14 @@
 .banner::before {
     content: "";
     position: absolute;
-    top: -300px;
-    left: -350px;
+    top: -450px;
+    left: -450px;
     height: 500px;
     width: 500px;
     opacity: 0.5;
     background: #ff5722;
     filter: blur(250px);
     z-index: -1;
-}
-
-.banner .slogan {
-    line-height: 120%;
 }
 
 .banner .des {

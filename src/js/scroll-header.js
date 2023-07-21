@@ -6,6 +6,8 @@ window.onscroll = function () {
     if (scroll > 50) {
         header.style.height = '70px';
     } else {
-        header.style.height = '110px';
+        if (scroll === 0) {
+            header.style.height = "110px";
+        }
     }
 }
